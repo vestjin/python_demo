@@ -2,9 +2,9 @@
 
 一个功能强大、易于使用的 Python GUI 批量文件重命名工具，支持多种重命名模式、实时预览、冲突检测和拖拽操作。
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+| [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org) | [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://example.com) | [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) |
+|:---:|:---:|:---:|
+
 
 ## ✨ 主要特性
 
@@ -61,14 +61,14 @@ sys          # 系统相关功能
 ### 方法一：直接运行源码
 ```bash
 # 1. 下载源码
-git clone https://github.com/yourusername/batch-rename-tool.git
+git clone https://github.com/vestjin/python_demo.git
 cd batch-rename-tool
 
 # 2. 运行程序
 python batch_rename_tool.py
 ```
 
-### 方法二：打包为独立执行文件
+### 方法二：打包为独立执行文件(已打包)
 
 #### 使用 PyInstaller（推荐）
 ```bash
@@ -209,7 +209,7 @@ A: 确保系统支持 UTF-8 编码，Windows 用户可以在区域设置中启�
 
 ## 📝 更新日志
 
-### v1.0.0 (2024-12-XX)
+### v1.0.0 (2025-9-28)
 - ✨ 初始版本发布
 - 🎯 支持四种重命名模式
 - 🔍 实现筛选功能
@@ -231,7 +231,7 @@ A: 确保系统支持 UTF-8 编码，Windows 用户可以在区域设置中启�
 ### 开发环境设置
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/batch-rename-tool.git
+git clone https://github.com/vestjin/python_demo.git
 
 # 进入目录
 cd batch-rename-tool
@@ -246,7 +246,7 @@ python batch_rename_tool.py
 
 ## 👨‍💻 作者
 
-- **作者姓名** - *初始工作* - [GitHub](https://github.com/yourusername)
+- **Jin** - *初始工作* - [GitHub](https://github.com/vestjin)
 
 ## 🙏 致谢
 
@@ -256,9 +256,9 @@ python batch_rename_tool.py
 
 ## 📞 支持与联系
 
-- 🐛 **问题报告**：[GitHub Issues](https://github.com/yourusername/batch-rename-tool/issues)
-- 💡 **功能建议**：[GitHub Discussions](https://github.com/yourusername/batch-rename-tool/discussions)
-- 📧 **邮件联系**：your.email@example.com
+- 🐛 **问题报告**：[GitHub Issues]([Issues · vestjin/python_demo](https://github.com/vestjin/python_demo/issues))
+- 💡 **功能建议**：[GitHub Discussions](https://github.com/vestjin/python_demo/discussions)
+- 📧 **邮件联系**：17633088571@163.com
 
 ---
 
